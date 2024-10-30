@@ -1,0 +1,17 @@
+#lug-map form p {margin: 15px 0; text-align: left;}
+#lug-map form p label {font-weight: normal; padding: 4px 0;}
+#lug-map form p .inpt {clear: both; display: block; width: 500px; padding: 2px;}
+#lug-map form p textarea {width: 500px; padding: 4px;}
+#point {border: none; padding: 0; width: 0; height: 0;}
+#lug-map form p .lb_adr {display: block;}
+#lug-map form p #adr {width: 300px;}
+#sbmt { font-size: 12px; padding: 4px;}
+#srch {padding-left: 10px;}
+#map {height: 500px; border:4px solid #423E46;}
+#lug-map {width: auto; margin: 10px auto;}
+#lug-map small {float: right;}
+#lug-map .bubble { font-size: 10px;}
+.entry-content img {margin: 0 0 16px 0;	max-width: none;} /* hack */
+#iw_kml {font-size: 11px; width: 250px;}
+#iw_kml strong {display: block;}
+#iw_kml small {float: none; display: block; text-align: right; margin: -5px 0;}

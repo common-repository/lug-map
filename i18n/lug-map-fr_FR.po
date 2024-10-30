@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: lug-map\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-07-09 17:06+0200\n"
+"PO-Revision-Date: 2008-07-13 15:20+0100\n"
+"Last-Translator: Rapetou <Poedit.rapetou@spamgourmet.com>\n"
+"Language-Team: GSL <stas@nerd.ro>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Romanian\n"
+"X-Poedit-Country: ROMANIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: lug-map\n"
+
+#: /home/stas/tmp/lug-map/index.php:35
+msgid "Lug Map"
+msgstr "Lug Map"
+
+#: /home/stas/tmp/lug-map/index.php:52
+msgid "Options saved."
+msgstr "Options auvées"
+
+#: /home/stas/tmp/lug-map/index.php:66
+msgid "Lug Map Options"
+msgstr "Options Lug Map"
+
+#: /home/stas/tmp/lug-map/index.php:67
+msgid "How to use it?"
+msgstr "Comment l'utiliser?"
+
+#: /home/stas/tmp/lug-map/index.php:68
+msgid "Insert inside the content of a page or a post the shortcode: [LUGMAP]"
+msgstr "Insérer dans le contenu d'une page ou dans un article le code  : [LUGMAP]"
+
+#: /home/stas/tmp/lug-map/index.php:69
+msgid "Note: Only registered users will be able to add markers to the map!"
+msgstr "	Note: Seuls les utilisateurs enregistrés seront en mesure d'ajouter des marqueurs à la carte!"
+
+#: /home/stas/tmp/lug-map/index.php:70
+msgid "Google Maps API Key"
+msgstr "	clés Google Maps API "
+
+#: /home/stas/tmp/lug-map/index.php:73
+#, php-format
+msgid "Can be obtained <a href=\"%1$s\">here</a>"
+msgstr "Peut être obtenue <a href=\"%1$s\">ici</a>"
+
+#: /home/stas/tmp/lug-map/index.php:76
+msgid "Lug Map Start-Up Location"
+msgstr " emplacement de démarrage de la carte Lug Map"
+
+#: /home/stas/tmp/lug-map/index.php:78
+#, php-format
+msgid "Please add the coordinates for the location wich should be loaded on showing up the map. You can use <a href=\"%1$s\">this tool</a>"
+msgstr "S’il vous plaît ajouter les coordonnées de l'emplacement qui devrait être chargée sur l'affichage de la carte. Vous pouvez utiliser <a href=\"%1$s\">cet utilitaire</a>"
+
+#: /home/stas/tmp/lug-map/index.php:81
+msgid "Save Changes"
+msgstr "	Enregistrer les modifications"
+
+#: /home/stas/tmp/lug-map/index.php:86
+msgid "Lug Map Entries"
+msgstr "Entrées Lug Map"
+
+#: /home/stas/tmp/lug-map/index.php:87
+msgid "Here you can delete entries"
+msgstr "Ici, vous pouvez supprimer les entrées"
+
+#: /home/stas/tmp/lug-map/index.php:93
+#, php-format
+msgid "<li><a href=\"%1$s\" title=\"Delete this marker\">X</a> | Geolocation: %2$s, Name: <strong>%3$s</strong>, URL: <a href=\"%4$s\">%4$s</a>, Contact: <a href=\"mailto:%5$s\">%6$s</a><br />%7$s</li>"
+msgstr "<li><a href=\"%1$s\" title=\"Éffacer le marqueur\">X</a> | Géolocalisation : %2$s, Nom : <strong>%3$s</strong>, URL: <a href=\"%4$s\">%4$s</a>, Contact : <a href=\"mailto:%5$s\">%6$s</a><br />%7$s</li>"
+
+#: /home/stas/tmp/lug-map/index.php:101
+msgid "Remove Lug Map Content"
+msgstr "Supprimer le contenu de Lug Map "
+
+#: /home/stas/tmp/lug-map/index.php:102
+msgid "Warnning! This will drop lugmap table and recreate it, so the present markers will be removed totally"
+msgstr "ATTENTION ! Ceci supprimera  la table Lug Map et va la récréer, de sorte que les présents marqueurs seront totalement supprimés"
+
+#: /home/stas/tmp/lug-map/index.php:105
+msgid "Clean Database"
+msgstr "Vider la base de données"
+
+#: /home/stas/tmp/lug-map/index.php:264
+msgid "LUG Name"
+msgstr "Nom "
+
+#: /home/stas/tmp/lug-map/index.php:265
+msgid "LUG Contact person"
+msgstr "Personne à contacter "
+
+#: /home/stas/tmp/lug-map/index.php:266
+msgid "LUG Description"
+msgstr "Description"
+
+#: /home/stas/tmp/lug-map/index.php:267
+msgid "LUG E-mail"
+msgstr "E-mail"
+
+#: /home/stas/tmp/lug-map/index.php:268
+msgid "LUG Web Page"
+msgstr "page Web"
+
+#: /home/stas/tmp/lug-map/index.php:269
+msgid "Geographical Position"
+msgstr "Position géographique"
+
+#: /home/stas/tmp/lug-map/index.php:269
+msgid "Town, County, Country"
+msgstr "Ville, région, Pays"
+
+#: /home/stas/tmp/lug-map/index.php:271
+msgid "Search"
+msgstr "Recherche"
+
+#: /home/stas/tmp/lug-map/index.php:274
+msgid "Add It"
+msgstr "Ajouté"
+

@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: lug-map\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-15 06:19+0200\n"
+"PO-Revision-Date: 2010-03-15 06:38+0200\n"
+"Last-Translator: Stas Sușcov <stas@softwareliber.ro>\n"
+"Language-Team: Echipa de localizare WordPress în Română <stas@nerd.ro>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Romanian\n"
+"X-Poedit-Country: ROMANIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: \n"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/lm.admin.class.php:30
+msgid "Lug Map"
+msgstr "Lug Map"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/lm.admin.class.php:41
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/lm.admin.class.php:46
+msgid "Options saved."
+msgstr "Opțiunile au fost salvate."
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/lm.admin.class.php:53
+#, php-format
+msgid "Marker %1$s deleted."
+msgstr "Marcajul %1$s a fost șters."
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/lm.admin.class.php:105
+msgid "Please add your Google Maps key"
+msgstr "Adaugă cheia API pentru Google Maps"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/lm.admin.class.php:152
+msgid "Settings"
+msgstr "Setări"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/lm.widget.class.php:32
+msgid "Title"
+msgstr "Titlu"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/lm.user.class.php:58
+msgid "Please fill in the following fields"
+msgstr "Completați câmpurile obligatorii"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/views/user.php:5
+msgid "LUG Name"
+msgstr "Numele grupului"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/views/user.php:7
+msgid "LUG Contact person"
+msgstr "Persoana de contact"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/views/user.php:9
+msgid "LUG Description"
+msgstr "Descrierea"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/views/user.php:11
+msgid "LUG E-mail"
+msgstr "Adresa E-mail"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/views/user.php:13
+msgid "LUG Web Page"
+msgstr "Pagina web cu orice detaliu"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/views/user.php:15
+msgid "Geographical Position"
+msgstr "Poziția geografică"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/views/user.php:16
+msgid "Town, County, Country"
+msgstr "Orașul, Județul, Țara"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/views/user.php:17
+msgid "Search"
+msgstr "Căutare"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/views/user.php:19
+msgid "Required fields are marked with <em>*</em>."
+msgstr "Câmpurile obligatorii sunt marcate cu <em>*</em>."
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/views/user.php:21
+msgid "Add It"
+msgstr "Adăugare"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/views/admin.php:4
+msgid "Lug Map Options"
+msgstr "Opțiuni Lug Map"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/views/admin.php:7
+msgid "How to use it?"
+msgstr "Cum poate fi folosit?"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/views/admin.php:9
+msgid "Insert inside the content of a page or a post the shortcode"
+msgstr "Înserează în conținutul unei pagini sau a unui articol codul"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/views/admin.php:13
+msgid "Google Maps API Key"
+msgstr "Cheia API Google Maps"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/views/admin.php:13
+msgid "Lug Map Start-Up Location"
+msgstr "Lug Map, locația ce se va încărca implicit pe hartă"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/views/admin.php:17
+#, php-format
+msgid "Can be obtained <a href=\"%1$s\">here</a>"
+msgstr "Poate fi obținută <a href=\"%1$s\">de aici</a>"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/views/admin.php:23
+#, php-format
+msgid "Please add the coordinates for the location wich should be loaded on showing up the map. You can use <a href=\"%1$s\">this tool</a>"
+msgstr "Vă rugăm să adăugați coordinatele pentru locația care va fi încărcată implicit la afișarea hărții. Vă recomandăm <a href=\"%1$s\">unealta aceasta</a>"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/views/admin.php:29
+msgid "Save Changes"
+msgstr "Salvează modificările"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/views/admin.php:35
+msgid "Here you can delete entries"
+msgstr "Aici pot fi șterse intrările"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/views/admin.php:40
+#, php-format
+msgid "<li><a href=\"%1$s\" title=\"Delete this marker\" style=\"font-weight: bolder; font-size: 14px; text-decoration: none;\" >&times;</a> | Geolocation: %2$s, Name: <strong>%3$s</strong>, URL: <a href=\"%4$s\">%4$s</a>, Contact: <a href=\"mailto:%5$s\">%6$s</a><br />%7$s</li>"
+msgstr "<li><a href=\"%1$s\" title=\"Șterge această intrare\" style=\"font-weight: bolder; font-size: 14px; text-decoration: none;\" >&times;</a> | Geolocația: %2$s, Numele: <strong>%3$s</strong>, URL: <a href=\"%4$s\">%4$s</a>, Email: <a href=\"mailto:%5$s\">%6$s</a><br />%7$s</li>"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/views/admin.php:55
+msgid "Remove Lug Map Content"
+msgstr "Șterge conținutul Lug Map"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/views/admin.php:57
+msgid "Warnning! This will drop lugmap table and recreate it, so the present markers will be removed totally"
+msgstr "Atenție! Această opțiune va șterge tabelul din baza de date și îl va crea din nou, astfel informațiile existente vor fi pierdute pentru totdeauna"
+
+#: /home/stas/Documente/svn/lug-map/branches/oo-rewrite/lib/views/admin.php:60
+msgid "Clean Database"
+msgstr "Curățare baza de date"
+
+#~ msgid "Lug Map Entries"
+#~ msgstr "Datele Lug Map"
+#~ msgid "Note: Only registered users will be able to add markers to the map!"
+#~ msgstr ""
+#~ "Notă: Doar utilizatorii înregistrați vor avea posibilitatea de a adăuga "
+#~ "date pe hartă!"
+
